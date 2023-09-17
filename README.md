@@ -26,9 +26,7 @@ Starting with this project was an important milestone for me. It's a testament t
 ## How to View
 
 To experience the Parallax Effect website, simply click on the link below:
-
-[View Parallax Effect Website](https://mohasindawal.github.io/Parallex-Effect-Website/)
-
+
 Feel free to explore the code, learn from it, and use it as a source of inspiration for your own projects. Your feedback and suggestions are always welcome as I continue to grow and improve as a web developer.
 
 Thank you for taking the time to visit my second GitHub repository. Here's to the journey ahead! 🌟
