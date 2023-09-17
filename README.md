@@ -1,6 +1,6 @@
 # Parallax Effect Website
 
-![Parallax Effect](link_to_image_here)
+<img src="parallex.png">
 
 Welcome to my second GitHub repository! 🚀 This project holds a special place in my heart as it marks the beginning of my journey into the exciting world of web development. 🌐
 
