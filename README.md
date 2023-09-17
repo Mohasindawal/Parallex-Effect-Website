@@ -22,11 +22,5 @@ This repository houses a simple yet captivating website that demonstrates the Pa
 ## Why This Project?
 
 Starting with this project was an important milestone for me. It's a testament to my initial curiosity and determination to learn HTML and CSS. While it may seem simple, it holds a wealth of memories and lessons learned during my early days of coding. This project reflects the progress I've made since then and serves as a reminder of how far I've come.
-
-## How to View
-
-To experience the Parallax Effect website, simply click on the link below:
 
-Feel free to explore the code, learn from it, and use it as a source of inspiration for your own projects. Your feedback and suggestions are always welcome as I continue to grow and improve as a web developer.
-
 Thank you for taking the time to visit my second GitHub repository. Here's to the journey ahead! 🌟
