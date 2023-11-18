@@ -6,7 +6,7 @@ Welcome to my second GitHub repository! 🚀 This project holds a special place 
 
 ## Project Overview
 
-This repository houses a simple yet captivating website that demonstrates the Parallax Effect using HTML and CSS. The Parallax Effect is a scrolling technique that creates a sense of depth by moving different elements on the page at different speeds. It adds an engaging and dynamic aspect to web design, and I wanted to explore this technique right from the start of my learning journey.
+This repository houses a simple yet captivating website that demonstrates the Parallax Effect using HTML and CSS. The Parallax Effect is a scrolling technique that creates a sense of depth by moving different elements on the page at different speeds. It adds an engaging and dynamic aspect to web design, and I wanted to explore this techniques right from the start of my learning journey.
 
 ## Technologies Used
 
